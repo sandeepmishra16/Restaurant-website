@@ -1,3 +1,5 @@
+https://github.com/sandeepmishra16/Restaurant-website/blob/723bf538ce84cdd4105fabd2f9852da9876a343b/Screenshot%202025-04-05%20153827.png
+
 # Restaurant Website 🍽️
 
 A modern and responsive restaurant website built using React. It showcases a variety of Indian dishes, including both North and South Indian specialties.

@@ -1,4 +1,4 @@
-https://github.com/sandeepmishra16/Restaurant-website/blob/723bf538ce84cdd4105fabd2f9852da9876a343b/Screenshot%202025-04-05%20153827.png
+![image alt](https://github.com/sandeepmishra16/Restaurant-website/blob/723bf538ce84cdd4105fabd2f9852da9876a343b/Screenshot%202025-04-05%20153827.png)
 
 # Restaurant Website 🍽️
 
